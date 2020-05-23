@@ -1,3 +1,4 @@
+#@uthor : Sumanth Nethi
 import pygame
 
 pygame.init()
